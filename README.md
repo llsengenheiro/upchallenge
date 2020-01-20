@@ -5,7 +5,7 @@ time de desenvolvimento.
 
 ** VISÃO GERAL**
 
-Jogo de corrida de carro, denominado de UpChanll!enge, o qual deve rodar no navegador e não há restrição de ferramentas para desenvolver este desaio. A funcionalidade básica é poder movimentas o carrinho atraves das teclas do teclado: ‘A’ - Esquerda, ‘S’ - Meio e ‘D’ -Direita  ou setas. O jogar colocar o nome dele e dar inicio a corrida após contagem regressiva. Se surgir qualquer imprevisto o jogador pode apertar qualquer tecla que o jogo irá pausar,  para retornar basta pressionar qualquer tecla.
+Jogo de corrida de carro, denominado de UpChanllenge, o qual deve rodar no navegador e não há restrição de ferramentas para desenvolver este desaio. A funcionalidade básica é poder movimentas o carrinho atraves das teclas do teclado: ‘A’ - Esquerda, ‘S’ - Meio e ‘D’ -Direita  ou setas. O jogar colocar o nome dele e dar inicio a corrida após contagem regressiva. Se surgir qualquer imprevisto o jogador pode apertar qualquer tecla que o jogo irá pausar,  para retornar basta pressionar qualquer tecla.
 
 **TECNOLOGIAS**
 
@@ -13,15 +13,15 @@ O desenvolvimento do jogo foi realizado utilizando as seguintes linguagens, ferr
 
    1. Create react-app
 
-    Creat react-app utilizado para ciar o projeto em REACT.JS
+   Creat react-app utilizado para ciar o projeto em REACT.JS
 
    2. Padrões de Código
 
-	Utilizado para desenvolvimento do editor de código VSCode, juntamente com extensões para padronizar  e organizar o código criado Editor config, Eslint e o Prettier
+   Utilizado para desenvolvimento do editor de código VSCode, juntamente com extensões para padronizar  e organizar o código    criado Editor config, Eslint e o Prettier
 
    3. Hooks React
 
-	Utilzado hooks useState para controlar os estados e useEffect para mapear os eventos
+   Utilzado hooks useState para controlar os estados e useEffect para mapear os eventos
 
    4. Styled components
 
@@ -29,11 +29,11 @@ O desenvolvimento do jogo foi realizado utilizando as seguintes linguagens, ferr
 
    5. react-keyboard-event-handler
 
-	Bibliboteca para coletar as teclas dos teclados pressionadas.
+   Bibliboteca para coletar as teclas dos teclados pressionadas.
 
    6. Trello
 
-    Ferramenta para fazer o controle das tarefas a serem realizadas, deste modo a evolução do projeto fica mais clara e objetiva,
+   Ferramenta para fazer o controle das tarefas a serem realizadas, deste modo a evolução do projeto fica mais clara e objetiva,
 
 
 **COMO JOGAR?**
