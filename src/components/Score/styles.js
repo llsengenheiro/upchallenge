@@ -6,19 +6,22 @@ export const Container = styled.div`
     align-items: center;
     justify-content: center;
     width: 25%;
+    margin: 10px;
 
     .infoArea {
         display: flex;
         flex-direction: row;
         background-color: #ccc;
+        width: 90%;
     }
-    div {
+    .infoDetail {
         display: flex;
         flex-direction: column;
         margin: 10px;
         border: 1px solid #000;
-        padding: 10px;
+        padding: 2px;
         align-items: center;
+        width: 30%;
 
         .titleInfo {
             font-weight: bold;

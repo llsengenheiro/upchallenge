@@ -10,6 +10,10 @@ export const Container = styled.div`
 
     .cenarioGif {
         display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+
         .pause {
             position: absolute;
             font-size: 170px;
@@ -21,17 +25,10 @@ export const Container = styled.div`
     }
 
     .imgScenary {
-        margin: 20px;
-        height: 900px;
-        width: 900px;
+        width: 95%;
+        margin-top: 15px;
     }
-    .car {
-        max-width: 350px;
-        max-height: 200px;
-        position: absolute;
-        top: 73%;
-        left: 57%;
-    }
+
     .cenarioStatic {
         display: flex;
         flex-direction: column;
@@ -41,15 +38,23 @@ export const Container = styled.div`
 `;
 
 export const Car = styled.img`
-    max-width: 350px;
-    max-height: 200px;
+    width: 20%;
+    height: 20%;
+
+    margin: 0 auto;
     position: absolute;
-    top: 73%;
+    top: 78%;
     left: ${({ positionCar }) => positionCar};
 `;
 
 /**
- * Style to form start
+ *.car {
+    padding-top: calc((1 / 3) * 100%);
+    width: 100%;
+    position: relative;
+    top: 73%;
+    left: 57%;
+} Style to form start
  */
 
 export const Form = styled.div`

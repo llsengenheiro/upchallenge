@@ -15,12 +15,12 @@ export const Container = styled.div`
         display: flex;
         flex-direction: row;
         background: #ccc;
-        margin: 5px;
+        margin: 5px 10px;
         border-color: #555;
         border-width: 4;
-        padding: 5px;
-        width: 300px;
+        width: 95%;
         align-items: center;
+        padding: 5px;
 
         img {
             width: 60px;

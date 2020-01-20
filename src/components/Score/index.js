@@ -46,16 +46,16 @@ export default function Score(props) {
     return (
         <Container>
             <div className="infoArea">
-                <div>
+                <div className="infoDetail">
                     <span className="titleInfo">DRIVER:</span>
                     <span className="info">{name}</span>
                 </div>
 
-                <div>
+                <div className="infoDetail">
                     <span className="titleInfo">SCORE:</span>
                     <span className="info">{scoreNow}</span>
                 </div>
-                <div>
+                <div className="infoDetail">
                     <span className="titleInfo"> VOLTAS:</span>
                     <span className="info">{lap}</span>
                 </div>
