@@ -13,15 +13,15 @@ O desenvolvimento do jogo foi realizado utilizando as seguintes linguagens, ferr
 
    1. Create react-app
 
-      Creat react-app utilizado para ciar o projeto em REACT.JS
+    Creat react-app utilizado para ciar o projeto em REACT.JS
 
    2. Padrões de Código
 
-	 Utilizado para desenvolvimento do editor de código VSCode, juntamente com extensões para padronizar  e organizar o código criado Editor config, Eslint e o Prettier
+	Utilizado para desenvolvimento do editor de código VSCode, juntamente com extensões para padronizar  e organizar o código criado Editor config, Eslint e o Prettier
 
    3. Hooks React
 
-	 Utilzado hooks useState para controlar os estados e useEffect para mapear os eventos
+	Utilzado hooks useState para controlar os estados e useEffect para mapear os eventos
 
    4. Styled components
 
@@ -33,9 +33,7 @@ O desenvolvimento do jogo foi realizado utilizando as seguintes linguagens, ferr
 
    6. Trello
 
-       Ferramenta para fazer o controle das tarefas a serem realizadas, deste modo a evolução do projeto fica mais clara e objetiva, a segue imagem:
-
-      [Trello.img](/home/lucas/Pictures/Screenshot from 2020-01-20 11-10-53.png  "Trello")
+    Ferramenta para fazer o controle das tarefas a serem realizadas, deste modo a evolução do projeto fica mais clara e objetiva,
 
 
 **COMO JOGAR?**
@@ -56,7 +54,7 @@ Após o servidor ser inicializado acessar :
  **2° Opção**
 
 
- [UpChallenge](www.luthtec.com.br)
+ [UpChallenge](http://www.luthtec.com.br)
 
 
 **REQUISITOS - DESENVOLVIDOS**
