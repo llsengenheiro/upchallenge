@@ -25,7 +25,7 @@ O desenvolvimento do jogo foi realizado utilizando as seguintes linguagens, ferr
 
    4. Styled components
 
-   	Utilizado para criar as estilização dos componentes.
+   Utilizado para criar as estilização dos componentes.
 
    5. react-keyboard-event-handler
 
