@@ -6,6 +6,7 @@ import Rank from '../../components/Rank';
 // Componente responsável por controlar  os Pontos e Voltas do jogo
 import Score from '../../components/Score';
 
+import som from '../../assets/Top_Gear.mp3';
 import scenary from '../../assets/scenary.gif';
 import scenaryStatic from '../../assets/scenaryStatic.png';
 import car from '../../assets/car.svg';
@@ -79,6 +80,8 @@ export default function Game() {
             {!gameOver ? (
                 <>
                     <div className="cenarioGif">
+                        <audio src={som} type="audio/mpeg" autoPlay />
+
                         <img
                             className="imgScenary"
                             src={run ? scenary : scenaryStatic}
